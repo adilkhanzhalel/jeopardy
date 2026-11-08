@@ -28,6 +28,9 @@ window.JEOPARDY_MUSIC = {
     { points: 200, file: "song-200.mp3", title: "Shape of You", artist: "Ed Sheeran", info: "2017 · 2010s hit", startAt: 0, clipSeconds: 8 },
     { points: 300, file: "song-300.mp3", title: "Umbrella", artist: "Rihanna feat. Jay-Z", info: "2007 · 2000s hit", startAt: 0, clipSeconds: 7 },
     { points: 400, file: "song-400.mp3", title: "My Heart Will Go On", artist: "Céline Dion", info: "1997 · Theme from the film \"Titanic\"", startAt: 0, clipSeconds: 7 },
-    { points: 500, file: "song-500.mp3", title: "Bohemian Rhapsody", artist: "Queen", info: "1975 · Classic rock", startAt: 0, clipSeconds: 6 }
+    { points: 500, file: "song-500.mp3", title: "Bohemian Rhapsody", artist: "Queen", info: "1975 · Classic rock", startAt: 0, clipSeconds: 6 },
+    { points: 600, file: "song-600.mp3", title: "Apologize", artist: "Timbaland feat. OneRepublic", info: "2007 · 2000s hit", startAt: 0, clipSeconds: 8 },
+    { points: 700, file: "song-700.mp3", title: "All the Stars", artist: "Kendrick Lamar & SZA", info: "2018 · From the film \"Black Panther\"", startAt: 0, clipSeconds: 8 },
+    { points: 800, file: "song-800.mp3", title: "Sorry", artist: "Justin Bieber", info: "2015 · 2010s hit", startAt: 0, clipSeconds: 8 }
   ]
 };
