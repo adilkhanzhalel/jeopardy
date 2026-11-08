@@ -23,7 +23,7 @@ window.JEOPARDY_QUESTIONS = {
         { points: 500, question: "In 1453, the great city of Constantinople was captured, ending the Byzantine Empire. This empire conquered it.", answer: "The Ottoman Empire (the Ottoman Turks)" },
         { points: 600, question: "In 1961, this Soviet cosmonaut became the first human to travel into space.", answer: "Yuri Gagarin" },
         { points: 700, question: "This French military leader crowned himself Emperor in 1804 and was finally defeated at the Battle of Waterloo in 1815.", answer: "Napoleon Bonaparte" },
-        { points: 800, question: "In 1215, English barons forced King John to sign this famous document that limited the power of the king.", answer: "The Magna Carta" }
+        { points: 800, question: "In 1969, this American astronaut became the first person to walk on the Moon.", answer: "Neil Armstrong" }
       ]
     },
     {
